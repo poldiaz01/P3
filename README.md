@@ -10,3 +10,6 @@ For obtaining the HLS transport stream containers, we follow the following steps
   6 - Create a master playlist that points to each of the variants
   
 https://ottverse.com/hls-packaging-using-ffmpeg-live-vod/
+
+# Exercise 4
+The answer is in the file exercise4.pdf. Also, the file .ts used is segment_tv3.ts.
