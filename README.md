@@ -11,5 +11,8 @@ For obtaining the HLS transport stream containers, we follow the following steps
   
 https://ottverse.com/hls-packaging-using-ffmpeg-live-vod/
 
+# Exercise 3
+The file that corresponds to this exercise is the Ex_3.py. Also, the exercise3.pdf explains a little bit the difficulties I have encountered.
+
 # Exercise 4
 The answer is in the file exercise4.pdf. Also, the file .ts used is segment_tv3.ts.
