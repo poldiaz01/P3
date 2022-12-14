@@ -11,7 +11,7 @@ For obtaining the HLS transport stream containers, we follow the following steps
   
 https://ottverse.com/hls-packaging-using-ffmpeg-live-vod/
 
-# Exercise 3
+# Exercise 2
 The answer is in the file exercise2.pdf.
 
 # Exercise 3
